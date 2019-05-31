@@ -16,10 +16,10 @@ There's a lot of knowledge floating around in the brainiacs at Tulane University
 
 ##### *Making corrections*
 
-If you find something incorrect, or that could be written more clearly, please comment on it/submit a revision.
+> If you find something incorrect, or that could be written more clearly, please comment on it/submit a revision.
 
 ##### *Writing tutorials*
 
-Know any tools that might be helpful for general computing?  Write a tutorial.
+> Know any tools that might be helpful for general computing?  Write a tutorial.
 
-Just made it through a frustrating ordeal to make something work?  Write a tutorial so others can get frustrated elsewhere.
+> Just made it through a frustrating ordeal to make something work?  Write a tutorial so others can get frustrated elsewhere.
