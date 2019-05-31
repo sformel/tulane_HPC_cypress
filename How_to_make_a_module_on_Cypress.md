@@ -50,7 +50,7 @@ ___
 
 *Note: If you're not familiar with nano, at the bottom you will see:*
 
-![Nano Keys](/Users/stephenformel/Google Drive/github/tulane_HPC_cypress/images/nanocommands.png)
+![Nano Keys](images/nanocommands.png)
 
 *All the actions highlighted in black begin with the ^ sign.  This means press the control key in combination with the following letter.*
 	
@@ -104,7 +104,7 @@ Like before, you should save and exit nano.  To see that it worked, type:
 	
 At the top of the list your module should be listed in a separate group from the other modules on cypress.  Mine looks like this:
 
-![Module avail](/Users/stephenformel/Google Drive/github/tulane_HPC_cypress/images/nanocommands.png)
+![Module avail](images/nanocommands.png)
 
 *Note that the path listed at the top is where my module files are.  It's not where we're installing it in this tutorial because I was a foolish noob when I first started installing software.  Someday I'll change it to what I recommend here.*
 
