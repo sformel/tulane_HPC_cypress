@@ -104,7 +104,7 @@ Like before, you should save and exit nano.  To see that it worked, type:
 	
 At the top of the list your module should be listed in a separate group from the other modules on cypress.  Mine looks like this:
 
-![Module avail](images/nanocommands.png)
+![Module avail](images/modulelist.png)
 
 *Note that the path listed at the top is where my module files are.  It's not where we're installing it in this tutorial because I was a foolish noob when I first started installing software.  Someday I'll change it to what I recommend here.*
 
