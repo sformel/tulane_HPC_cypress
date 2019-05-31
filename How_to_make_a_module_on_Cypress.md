@@ -17,18 +17,22 @@ In short, you're creating a file that tells Cypress where to look when you ask i
 
 ### Previous Steps
 
-This assumes that you have correctly downloaded and unpacked/compiled the software you're interested in.  Most often the folder in the software you're trying to direct Cypress to find is called bin or source.  Regardless there is usually one folder that contains the commands necessary to run the program.
+This assumes that you have correctly downloaded and unpacked/compiled the software you're interested in.  Most often the folder in the software you're trying to direct Cypress to find is called bin or src.  Regardless there is usually one folder that contains the commands necessary to run the program.
 
 #### Step1: Make modulerc file
 
-Use an editor to make a file named "modulerc" in your home directory.  In this case:
+Use an editor to make a file named "modulerc" in your home directory.  
+
+	nano $HOME/.modulerc
+	
+In this case:
 
 1. nano is the editor (vim is another popular choice)
 2. $HOME is the bash variable to call the folder "/home/yourusername"
 3. The dot in front of modulerc means it is a hidden file 
 4. Don't get freaked out by the fact that modulerc has no extension (e.g. .txt or .csv), it is still a real file.
 
-	nano $HOME/.modulerc
+	
 
 Once you have opened this file in the nano editor add this text (do not add any spaces):
 
