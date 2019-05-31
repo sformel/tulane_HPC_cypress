@@ -142,8 +142,7 @@ Sometimes software is more complex and depends on other software and/or requires
 	
 ##### Explanation of extra parts
 
-If you're feeling Encylopedia Brown-ish [see this page to learn more about the module file "Tool Command" language](http://modules.sourceforge.net/man/
-modulefile.html).
+If you're feeling Encylopedia Brown-ish [see this page to learn more about the module file "Tool Command" language](http://modules.sourceforge.net/man/modulefile.html).
 
 ###### set_env
 
