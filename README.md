@@ -1,1 +1,3 @@
-# tulane_HPC_cypress
+## This repository is meant for all...
+
+The Tulane University HPC (High-Performance Computing system), Cypress, is an awesome resource we have access to.  The admins do a great job running it and their wiki is a good place to start learning about it.
