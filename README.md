@@ -2,7 +2,7 @@
 
 ##### *Cypress is awesome*
 
-The Tulane University HPC (High-Performance Computing system), Cypress, is an awesome resource we have access to.  The admins do a great job running it and [their wiki](https://wiki.hpc.tulane.edu/trac/wiki/cypress/about) is a good place to start learning about it.
+The Tulane University HPC (High-Performance Computing system), Cypress, is an incredible resource we have access to.  The admins do a great job running it and [their wiki](https://wiki.hpc.tulane.edu/trac/wiki/cypress/about) is a good place to start learning about it.
 
 
 ##### *But they can't cover everything*
