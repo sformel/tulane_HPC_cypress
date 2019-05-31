@@ -5,7 +5,7 @@ last updated May 31, 2019
 
 ##### Description
 
-When you install software locally on Cypress, the Tulane supercomputer, it is a good idea (and sometimes necessary) to create a module, so that when the software is loaded the right elements are added to your environment to kep the software functioning correctly.  [Cypress has a wiki page on this](make module per https://wiki.hpc.tulane.edu/trac/wiki/cypress/ModuleCommand), and this is another [web page that explains more about the language behind modules](http://modules.sourceforge.net/man/modulefile.html).
+When you install software locally on Cypress, the Tulane supercomputer, it is a good idea (and sometimes necessary) to create a module, so that when the software is loaded the right elements are added to your environment to kep the software functioning correctly.  [Cypress has a wiki page on this](https://wiki.hpc.tulane.edu/trac/wiki/cypress/ModuleCommand), and this is another [web page that explains more about the language behind modules](http://modules.sourceforge.net/man/modulefile.html).
 
 In short, you're creating a file that tells Cypress where to look when you ask it to run commands from this program.
 
