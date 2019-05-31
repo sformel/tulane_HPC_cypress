@@ -82,7 +82,7 @@ As you do this keep in mind that you will need to type exactly what you name it 
 
 	mkdir $HOME/yourusername/modulefiles/softwarename
 	
-##### B. Make module file in trinity folder
+##### B. Make module file in softwarename folder
 
 In this example we name the module file after the software version, "1.2", but you can name the module file whatever you want.
 
