@@ -12,6 +12,8 @@ Rclone is very similar to rsync, but it allows transfer of files between a cloud
 
 > Note: As of writing this, there are box.com accounts that Tulane provides to PIs for backing up data.  If your PI has no idea that this exists, it's because they need to formally request it to be given one (although I'm not sure who they ask). Importantly, a single file can be no larger than 15Gb, which is problematic for files like large alignment files of nucleic acids.  So plan accordingly.  Otherwise, to the best of my knowledge, the space is unlimited, so back up your work early and often on box.com!
 
+***
+
 **Why?**
 
 We can install rclone on Cypress and move files between your Cypress account and your box.com account with ease.  This is especially helpful when working with large amounts of data for multiple reasons:
@@ -21,6 +23,8 @@ We can install rclone on Cypress and move files between your Cypress account and
 2. The fewer times you copy data (downloading from box.com and then uploading to cypress via an intermediate computer), **the less chance there is that your data will become corrupt**.
 
 3. With large data, like DNA sequences, you often perform stepwise filtering and analyses that create copies of the entire data set.  For example, after trimming my sequences, I end up with the original raw sequences, and a slightly smaller set of trimmed sequences.  This quickly uses up my space on Cypress.  **By using rclone, I can shunt off files that aren't needed and keep my Cypress account relatively uncluttered.**
+
+***
 
 #### Install rclone on cypress
 
