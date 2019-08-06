@@ -1,4 +1,4 @@
-#How to Install and use Rclone on Cypress
+# How to Install and use Rclone on Cypress
 
 By Steve Formel
 
