@@ -76,9 +76,9 @@ You can walk your way through logging in by following [this Cypress page](https:
 1. Windows:
 	
 	* Open putty
-	* To log onto cypress, type:
+	* In the Host Name field type:
 
-			cypress1.tulane.edu into the Host Name field
+			cypress1.tulane.edu 
 	
 	* make sure the port is set to 22. 
 	* Click on Open and you will be given a login window to cypress.
