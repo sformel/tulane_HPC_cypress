@@ -55,7 +55,7 @@ Cypress is a great team of people that maintain this awesome *free* resource for
 
 Cypress Team             |  + Carl (should be in the photo on the left)
 :-------------------------:|:-------------------------:
-![](images/DSC_0010-6.jpg) |  ![](images/IMG_3098.jpg)
+![](./images/DSC_0010-6.jpg) |  ![](./images/IMG_3098.jpg)
 
 
 
