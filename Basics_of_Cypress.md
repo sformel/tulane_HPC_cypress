@@ -55,8 +55,10 @@ Cypress is a great team of people that maintain this awesome *free* resource for
 
 Cypress Team             |  + Carl (should be in the photo on the left)
 :-------------------------:|:-------------------------:
-![](https://crsc.tulane.edu/wp-content/uploads/sites/29/2014/09/DSC_0010-6.jpg)|  ![](https://crsc.tulane.edu/wp-content/uploads/sites/29/2014/09/IMG_3098.jpg)
- 
+ |  ![](https://crsc.tulane.edu/wp-content/uploads/sites/29/2014/09/IMG_3098.jpg)
+
+![](https://crsc.tulane.edu/wp-content/uploads/sites/29/2014/09/DSC_0010-6.jpg)
+
 Contact them with any questions at: hpcadmin (at) tulane.edu
 
 ***
