@@ -98,6 +98,13 @@ Now that you have made this file, you need to add the information the computer n
 	module-whatis    description of program
 	prepend-path     PATH /path/to/software/bin
 
+	#This bit allows Cypress admins to track module usage and manage shared installations accordingly.
+	
+	set curMod [module-info name]
+	if { [ module-info mode load ] } {
+    	system "/bin/logger -p local0.info 'module_load: $curMod.'"
+	}
+
 Like before, you should save and exit nano.  To see that it worked, type:
 
 	module avail
