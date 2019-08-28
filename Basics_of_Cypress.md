@@ -173,6 +173,13 @@ In the nano editor write:
 	module-whatis    Rclone is a command line program to sync files and directories to and from cloud storage
 	prepend-path     PATH /path/to/rclone/folder/rclone-v1.47.0-linux-amd64/
 	
+	#This bit allows Cypress admins to track module usage and manage shared installations accordingly.
+	
+	set curMod [module-info name]
+	if { [ module-info mode load ] } {
+    	system "/bin/logger -p local0.info 'module_load: $curMod.'"
+	}
+	
 #### Step 3: configure the box.com repository in rclone
 
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Box%2C_Inc._logo.svg/1200px-Box%2C_Inc._logo.svg.png width=100>
